@@ -1,0 +1,32 @@
+$Page Nine Inch Nails Remix
+
+NIN.tif
+
+Welcome to the Nine Inch Nails remix album. Trent Reznor has included separated song parts, and your job is to mix them up in orders that were never intended. $0 is the perfect platform for you to mix and match audio, tweak effects and change tempo to create entirely new sounds.
+
+To get the music started, press the space bar. 
+
+
+Click *Next* below to proceed
+
+$Page Remix Suggestions
+A few ideas you might want to consider when remixing:
+
+*Changing Tempo*
+
+The project tempo is already set, but Live can warp each clip to fit new tempos. You can see this by looking at the /Tempo control/ in the upper left corner of the screen:
+TempoMixRemix.tif
+Click and drag up and down on the Tempo control to change the project tempo. Notice that the various loops stay in sync with your changes.
+
+As you change the tempo, the loops will not change in terms of pitch: /In $0, pitch is controlled separately from tempo,/ so that you can easily beat-match various styles of music without ever affecting pitch (unless you want to, that is).
+
+*Global Groove*
+Want to add a funky swing to beats, loops and Trent's vocals? Adjust the Global Groove control:
+globalgroove.tif
+
+*Clip Envelopes*
+Clip envelopes can create infinite variations on loops, samples and even MIDI, making your imagination the only limit. Clip envelopes are covered in detail in the "Clip Envelopes" chapter of the reference manual, which includes information on unlinking envelopes, modulating mixer and effects controls and even creating clip envelopes for MIDI.
+
+*Good luck with your Remix!*
+
+The Ableton website offers more in-depth $0 tutorials: www.ableton.com
